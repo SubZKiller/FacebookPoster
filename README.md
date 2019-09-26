@@ -1,5 +1,6 @@
 # FacebookPoster
 ## what does this code do?
+Hola soy reinoso
 
 This code creates a message on a Facebook group of your choosing which you have authority to write on.
 
