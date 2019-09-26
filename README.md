@@ -33,7 +33,8 @@ main(usernane='insert_username', password='insert_password', page='insert_URL')
 
 ```
 
-After inserting all the information needed all you have to do is save changes an run the code
+After inserting all the information needed all you have to do is save changes and run the code
 
 `python FacebookPoster.py`
 
+Type your menssage and press Intro
