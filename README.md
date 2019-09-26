@@ -1,6 +1,7 @@
 # FacebookPoster
 ## what does this code do?
 Hola soy reinoso
+https://www.facebook.com/groups/2466772883410452/requests/?hoist_pending_member_ids_suggested_order=100041843405619&notif_id=1569537917676612&notif_t=group_r2j
 
 This code creates a message on a Facebook group of your choosing which you have authority to write on.
 
