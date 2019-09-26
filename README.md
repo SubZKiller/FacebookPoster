@@ -35,5 +35,5 @@ main(usernane='insert username', password='insert password', page='insert URL')
 
 After inserting all the information needed all you have to do is save changes an run the code
 
-`python facebook.py`
+`python FacebookPoster.py`
 
